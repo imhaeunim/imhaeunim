@@ -2,7 +2,7 @@
 ## Hi there 👋
 -->
 <!--
-**kodms08/kodms08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**imhaeunim/imhaeunim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# My-Portfolio
 
 
 <h3 align="center"><b>⚡Tech Stack⚡</b></h3>
@@ -43,4 +45,20 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=AWS%20Lambda&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white"/></a> &nbsp
 
+<br>
+<br>
+
+
+
+<h3 align="center"><b>🌳Project🌳</b></h3>
+
+<div align="center">
+
+| NO | Project Name | Description | Tech Stac |Link |
+|-------|-------|-------|-------|-------|
+| 1 | my music | JDBC를 활용한 MVC 패턴 CRUD | MySQL, Java, JDBC|https://github.com/wooriFISAmk/music_project|
+| 2 | Send Money | 정규표현식을 사용한 거래 서비스 | MySQL, Linux |https://github.com/imhaeunim/Send_Money|
+| 3 | Bic Mac Index | 대용량 실기간 데이터 시각화 | MySQL, ElasticSearch, Logstash, Kibana |https://github.com/love-tooth/BicMac-index|
+
+</div
 

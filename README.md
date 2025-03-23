@@ -36,53 +36,85 @@ Here are some ideas to get you started:
 <br>
 
 <h3 align="center"><b>⚡Tech Stack⚡</b></h3>
+
+<h5 align="center">💻Languages💻</h5>
 <p align="center">
-<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
-</br>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/></a> &nbsp
-</br>
-<img src="https://img.shields.io/badge/JPA-fe7d37?style=flat-square&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/MyBatis-97ca00?style=flat-square&logoColor=white"/></a> &nbsp
-</br>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a> &nbsp
-</br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp
-</br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a> &nbsp 
-</br>
-<img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/></a> &nbsp 
-</br>
-<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=AWS%20Lambda&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
 
-<br>
-<br>
+<h5 align="center">🧩Frameworks🧩</h5>
+<p align="center">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MyBatis-0052CC?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+</p>
 
+<h5 align="center">🗄️Databases🗄️</h5>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
 
-<h3 align="center"><b>🌳Project🌳</b></h3>
+<h5 align="center">☁️Cloud & Infra☁️</h5>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Lambda-F90?style=flat-square&logo=aws-lambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kibana-E8478B?style=flat-square&logo=kibana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
+</p>
+
+<h5 align="center">🤝Collaboration Tools🤝</h5>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+</p>
+
 <div align="center">
-  
-| NO | Project Name | Description | Tech Stack | Link |
-|-------|-------|-------|-------|-------|
-| 1 | MoHey | 인스턴스 모임 어플리케이션 | Java, SpringBoot, MariaDB, MongoDB, Jenkis, Docker, AWS S3 | [🔗GitHub](https://github.com/Mohey-2023) |
+  <hr style="width: 10%; border: 0.5px solid #ccc; margin: 20px 10px;" />
+</div>
+
+
+<br>
+
+
+<h3 align="center"><b>🌳 Projects 🌳</b></h3>
+
+<div align="center">
+
+| NO | Project | Description | Stack | Links |
+|----|---------|-------------|-------|-------|
+| 1 | MoHey | 인스턴트 모임 앱  | Java, SpringBoot, MariaDB, MongoDB, Jenkins, Docker, AWS S3 | [🔗GitHub](https://github.com/Mohey-2023) |
 | 2 | 댕댕감자 | 반려견 여행지 추천 웹 | Java, SpringBoot, JPA, Python, Flask, MariaDB | [🔗GitHub](https://github.com/DaengPotato/DaengDaeng) |
 | 3 | 코깃 | 알고리즘 스터디 관리 웹 | Java, SpringBoot, JPA, MariaDB, JavaScript, HTML, CSS | [🔗GitHub](https://github.com/Cogit-Cogit/Cogit) |
-| 4 | 코깃코깃 | 자동 깃허브 업로드 Chrome 확장 프로그램 | JavaScript, HTML, CSS | [🔗GitHub](https://github.com/Cogit-Cogit/CogitCogit) [🔗Service](https://chromewebstore.google.com/detail/%EC%BD%94%EA%B9%83%EC%BD%94%EA%B9%83-cogitcogit/cmjbobieohgjhfflhokcdfnhinmphojk) |
+| 4 | 코깃코깃 | 자동 GitHub 업로드 크롬 확장 | JavaScript, HTML, CSS | [🔗GitHub](https://github.com/Cogit-Cogit/CogitCogit) <br>[🔗Service](https://chromewebstore.google.com/detail/%EC%BD%94%EA%B9%83%EC%BD%94%EA%B9%83-cogitcogit/cmjbobieohgjhfflhokcdfnhinmphojk) |
 
 </div>
 
+<div align="center">
+  <hr style="width: 10%; border: 0.5px solid #ccc; margin: 20px 10px;" />
+</div>
+
+
 <br>
+
 
 <h3 align="center"><b>🍀Mini Project🍀</b></h3>
 <div align="center">
 
-| NO | Project Name | Description | Tech Stack | Link |
-|-------|-------|-------|-------|-------|
+| NO | Project | Description | Stack | Link |
+|----|---------|-------------|-------|------|
 | 1 | My Music | JDBC를 활용한 MVC 패턴 CRUD | Java, MySQL, JDBC | [🔗GitHub](https://github.com/wooriFISAmk/music_project) |
 | 2 | Send Money | 정규표현식을 사용한 거래 서비스 | MySQL, Linux | [🔗GitHub](https://github.com/imhaeunim/Send_Money) |
 | 3 | Bic Mac Index | 대용량 실기간 데이터 시각화 | MySQL, ElasticSearch, Logstash, Kibana | [🔗GitHub](https://github.com/love-tooth/BicMac-index) |
@@ -90,3 +122,15 @@ Here are some ideas to get you started:
 
 </div>
 
+<div align="center">
+  <hr style="width: 10%; border: 0.5px solid #ccc; margin: 20px 10px;" />
+</div>
+
+
+<br>
+
+
+<h3 align="center"><b>🌻Algorithm Ranking🌻</b></h3>
+<div align="center">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kodms08"/></a>  
+</div>

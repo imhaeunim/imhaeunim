@@ -20,6 +20,19 @@ Here are some ideas to get you started:
 
 <br>
 
+
+I'm a **backend developer** who finds great value in defining problems and solving them with structured thinking 👨‍💻
+
+I specialize in building services using Java and Spring Boot,  
+and I'm actively expanding my experience in cloud (AWS), infrastructure, and DevOps environments.
+
+I believe **challenges** always open up new perspectives.  
+That's why I keep growing every day—**striving to become a better developer than I was yesterday.** 🌻
+
+<br>
+
+---
+
 <!--
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimhaeunim&count_bg=%23B6E1AD&title_bg=%2310741F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -119,6 +132,12 @@ Here are some ideas to get you started:
 | 2 | Send Money | 정규표현식을 사용한 거래 서비스 | MySQL, Linux | [🔗GitHub](https://github.com/imhaeunim/Send_Money) |
 | 3 | Bic Mac Index | 대용량 실기간 데이터 시각화 | MySQL, ElasticSearch, Logstash, Kibana | [🔗GitHub](https://github.com/love-tooth/BicMac-index) |
 | 4 | EK Real Card Data | 실제 카드 분석 및 데이터 시각화 | Linux, ElasticSearch, Kibana | [🔗GitHub](https://github.com/love-tooth/card-data-analysis) |
+<!-- | 5 |Mentorship | Servlet JSP | Servlet, JSP | [🔗GitHub](https://github.com/love-tooth/Mentorship-hub) | -->
+<!-- | 5 | Dockerized Jar | Java Application docker 배포 | Docker, Docker Hub, SpringBoot | [🔗GitHub](https://github.com/love-tooth/fisa-tech-senima) | -->
+<!-- | 5 | Our Server | 다수의 ESXI 인프라 구성 및 구축  | ESXI, vSphere, ubuntu | [🔗GitHub](https://github.com/VMware-Team6/vmware-esxi-lab) | -->
+<!-- | 5 | Dockerized Jar | Java Application docker 배포 | Docker, Docker Hub, SpringBoot | [🔗GitHub](https://github.com/CooolRyan/dockerARABOZA) | -->
+<!-- | 5 | DB Saver | 메모리 Log Monitoring 및 조 | Linux, MySQL, JMETER | [🔗GitHub](https://github.com/Linux-Friends/docker-compose-crontab) | -->
+<!-- | 5 | DB Backup | Docker Compose Automization | Docker, Docker Compose, MySQL, SpringBoot | [🔗GitHub](https://github.com/Linux-Friends/log-monitoring) | -->
 
 </div>
 
@@ -130,7 +149,9 @@ Here are some ideas to get you started:
 <br>
 
 
-<h3 align="center"><b>🌻Algorithm Ranking🌻</b></h3>
+<h3 align="center"><b>🌱Algorithm Ranking🌱</b></h3>
 <div align="center">
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kodms08"/></a>  
 </div>
+
+<br>

@@ -123,20 +123,20 @@ That's why I keep growing every day—**striving to become a better developer th
 <br>
 
 
-<h3 align="center"><b>🍀Mini Project🍀</b></h3>
+<h3 align="center"><b>🍀Mini Projects🍀</b></h3>
 <div align="center">
 
-| NO | Project | Description | Stack | Link |
-|----|---------|-------------|-------|------|
-| 1 | My Music | JDBC를 활용한 MVC 패턴 CRUD | Java, MySQL, JDBC | [🔗GitHub](https://github.com/wooriFISAmk/music_project) |
-| 2 | Send Money | 정규표현식을 사용한 거래 서비스 | MySQL, Linux | [🔗GitHub](https://github.com/imhaeunim/Send_Money) |
-| 3 | Bic Mac Index | 대용량 실기간 데이터 시각화 | MySQL, ElasticSearch, Logstash, Kibana | [🔗GitHub](https://github.com/love-tooth/BicMac-index) |
-| 4 | EK Real Card Data | 실제 카드 분석 및 데이터 시각화 | Linux, ElasticSearch, Kibana | [🔗GitHub](https://github.com/love-tooth/card-data-analysis) |
-| 5 | Dockerized Jar | Java Application Docker 배포 | Docker, Docker Hub, SpringBoot | [🔗GitHub](https://github.com/CooolRyan/dockerARABOZA) |
-| 6 | DB Backup | Docker Compose Automization | Docker, Docker-Compose, MySQL, SpringBoot | [🔗GitHub](https://github.com/Linux-Friends/docker-compose-crontab) |
-| 7 | Auto Deploy | Docker Compose Automization | Jenkins, Docker, SpringBoot | [🔗GitHub](https://github.com/Linux-Friends/Jenkins-Deploy-Automization) |
-| 8 | Minikube | Kubernetes NodeProt&LoadBalancer | Kubernetes, Docker, SpringBoot | [🔗GitHub](https://github.com/Linux-Friends/springboot-on-k8s) |
-| 9 | Monitoring | MySQL&APP Monotoring | Prometheus, Grafana, MySQL, Docker, SpringBoot | [🔗GitHub](https://github.com/WEAREHEJH/stress_test_monioting) |
+| NO | Description | Stack | Link |
+|----|-------------|-------|------|
+| 1  | JDBC를 활용한 MVC 패턴 CRUD | Java, MySQL, JDBC | [🔗GitHub](https://github.com/wooriFISAmk/music_project) |
+| 2  | 정규표현식을 사용한 거래 서비스 | MySQL, Linux | [🔗GitHub](https://github.com/imhaeunim/Send_Money) |
+| 3  | 대용량 실기간 데이터 시각화 | MySQL, ElasticSearch, Logstash, Kibana | [🔗GitHub](https://github.com/love-tooth/BicMac-index) |
+| 4  | 실제 카드 분석 및 데이터 시각화 | Linux, ElasticSearch, Kibana | [🔗GitHub](https://github.com/love-tooth/card-data-analysis) |
+| 5  | Java Application Docker 배포 | Docker, Docker Hub, SpringBoot | [🔗GitHub](https://github.com/CooolRyan/dockerARABOZA) |
+| 6  | Docker Compose를 활용한 data backup | Docker, Docker-Compose, MySQL, SpringBoot | [🔗GitHub](https://github.com/Linux-Friends/docker-compose-crontab) |
+| 7  | Jenkins를 활용한 자동 배포 pipeline | Jenkins, Docker, SpringBoot | [🔗GitHub](https://github.com/Linux-Friends/Jenkins-Deploy-Automization) |
+| 8  | kubernetes의 NodePort & LoadBalancer  | Kubernetes, Docker, SpringBoot | [🔗GitHub](https://github.com/Linux-Friends/springboot-on-k8s) |
+| 9  | MySQL&APP Monotoring | Prometheus, Grafana, MySQL, Docker, SpringBoot | [🔗GitHub](https://github.com/WEAREHEJH/stress_test_monioting) |
 
 <!-- 
 | | Mentorship | Servlet JSP | Servlet, JSP | [🔗GitHub](https://github.com/love-tooth/Mentorship-hub) |

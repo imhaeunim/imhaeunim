@@ -108,10 +108,11 @@ That's why I keep growing every day—**striving to become a better developer th
 
 | NO | Project | Description | Stack | Links |
 |----|---------|-------------|-------|-------|
-| 1 | MoHey | 인스턴트 모임 앱  | Java, SpringBoot, MariaDB, MongoDB, Jenkins, Docker, AWS S3 | [🔗GitHub](https://github.com/Mohey-2023) |
-| 2 | 댕댕감자 | 반려견 여행지 추천 웹 | Java, SpringBoot, JPA, Python, Flask, MariaDB | [🔗GitHub](https://github.com/DaengPotato/DaengDaeng) |
+| 1 | Stofka | 실시간 코인 데이터 시각화 웹 | ESXi, Kakfa, Kubernetes, ArgoCD, Github Actions, Java, SpringBoot, PostgreSQL, Prometheus, Grafana | [🔗GitHub](https://github.com/Team-Stofka) |
+| 2 | 코깃코깃 | 자동 GitHub 업로드 크롬 확장 | JavaScript, HTML, CSS | [🔗GitHub](https://github.com/Cogit-Cogit/CogitCogit) <br>[🔗Service](https://chromewebstore.google.com/detail/%EC%BD%94%EA%B9%83%EC%BD%94%EA%B9%83-cogitcogit/cmjbobieohgjhfflhokcdfnhinmphojk) |
 | 3 | 코깃 | 알고리즘 스터디 관리 웹 | Java, SpringBoot, JPA, MariaDB, JavaScript, HTML, CSS | [🔗GitHub](https://github.com/Cogit-Cogit/Cogit) |
-| 4 | 코깃코깃 | 자동 GitHub 업로드 크롬 확장 | JavaScript, HTML, CSS | [🔗GitHub](https://github.com/Cogit-Cogit/CogitCogit) <br>[🔗Service](https://chromewebstore.google.com/detail/%EC%BD%94%EA%B9%83%EC%BD%94%EA%B9%83-cogitcogit/cmjbobieohgjhfflhokcdfnhinmphojk) |
+| 4 | 댕댕감자 | 반려견 여행지 추천 웹 | Java, SpringBoot, JPA, Python, Flask, MariaDB | [🔗GitHub](https://github.com/DaengPotato/DaengDaeng) |
+| 5 | MoHey | 인스턴트 모임 앱  | Java, SpringBoot, MariaDB, MongoDB, Jenkins, Docker, AWS S3 | [🔗GitHub](https://github.com/Mohey-2023) |
 
 </div>
 
